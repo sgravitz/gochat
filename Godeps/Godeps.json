@@ -1,0 +1,95 @@
+{
+	"ImportPath": "github.com/sgravitz/chat",
+	"GoVersion": "go1.6",
+	"Deps": [
+		{
+			"ImportPath": "github.com/clbanning/x2j",
+			"Rev": "4560588a2f0b6acf8fb39c589b0e2f20eb8538b4"
+		},
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Rev": "a622679ebd7a3b813862379232f645f8e690e43f"
+		},
+		{
+			"ImportPath": "github.com/stretchr/codecs",
+			"Rev": "8e29b38960a541ed1264b001dcb21701283c590d"
+		},
+		{
+			"ImportPath": "github.com/stretchr/codecs/bson",
+			"Rev": "8e29b38960a541ed1264b001dcb21701283c590d"
+		},
+		{
+			"ImportPath": "github.com/stretchr/codecs/constants",
+			"Rev": "8e29b38960a541ed1264b001dcb21701283c590d"
+		},
+		{
+			"ImportPath": "github.com/stretchr/codecs/csv",
+			"Rev": "8e29b38960a541ed1264b001dcb21701283c590d"
+		},
+		{
+			"ImportPath": "github.com/stretchr/codecs/json",
+			"Rev": "8e29b38960a541ed1264b001dcb21701283c590d"
+		},
+		{
+			"ImportPath": "github.com/stretchr/codecs/jsonp",
+			"Rev": "8e29b38960a541ed1264b001dcb21701283c590d"
+		},
+		{
+			"ImportPath": "github.com/stretchr/codecs/msgpack",
+			"Rev": "8e29b38960a541ed1264b001dcb21701283c590d"
+		},
+		{
+			"ImportPath": "github.com/stretchr/codecs/services",
+			"Rev": "8e29b38960a541ed1264b001dcb21701283c590d"
+		},
+		{
+			"ImportPath": "github.com/stretchr/codecs/xml",
+			"Rev": "8e29b38960a541ed1264b001dcb21701283c590d"
+		},
+		{
+			"ImportPath": "github.com/stretchr/gomniauth",
+			"Rev": "4ffc30f1926ae4c7ba1a682f005ebb047ef551e4"
+		},
+		{
+			"ImportPath": "github.com/stretchr/gomniauth/common",
+			"Rev": "4ffc30f1926ae4c7ba1a682f005ebb047ef551e4"
+		},
+		{
+			"ImportPath": "github.com/stretchr/gomniauth/oauth2",
+			"Rev": "4ffc30f1926ae4c7ba1a682f005ebb047ef551e4"
+		},
+		{
+			"ImportPath": "github.com/stretchr/gomniauth/providers/github",
+			"Rev": "4ffc30f1926ae4c7ba1a682f005ebb047ef551e4"
+		},
+		{
+			"ImportPath": "github.com/stretchr/gomniauth/providers/google",
+			"Rev": "4ffc30f1926ae4c7ba1a682f005ebb047ef551e4"
+		},
+		{
+			"ImportPath": "github.com/stretchr/objx",
+			"Rev": "1a9d0bb9f541897e62256577b352fdbc1fb4fd94"
+		},
+		{
+			"ImportPath": "github.com/stretchr/signature",
+			"Rev": "168b2a1e1b562bf381d47471e31f5979a2a51cd5"
+		},
+		{
+			"ImportPath": "github.com/stretchr/stew/strings",
+			"Rev": "80ef0842b48b329a6120607c817a85aff5a2ec71"
+		},
+		{
+			"ImportPath": "github.com/stretchr/tracer",
+			"Rev": "66d3696bba973e1697f7d68413b3f19c6d6e2a7c"
+		},
+		{
+			"ImportPath": "github.com/ugorji/go/codec",
+			"Rev": "c062049c1793b01a3cc3fe786108edabbaf7756b"
+		},
+		{
+			"ImportPath": "labix.org/v2/mgo/bson",
+			"Comment": "287",
+			"Rev": "gustavo@niemeyer.net-20140501184651-975yyw9ipld92pji"
+		}
+	]
+}
