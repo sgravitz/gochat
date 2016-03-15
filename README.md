@@ -5,6 +5,7 @@ Sample project for Go
 To Build
 
 $ go build -o chat
+
 $ ./chat -host=":8080"
 
 then navigate to:
